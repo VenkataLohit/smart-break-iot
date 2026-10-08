@@ -1,0 +1,6 @@
+{
+  "name": "Auto Brake IoT Digital Twin",
+  "description": "IoT-Based Automatic Car Braking and Real-Time Vehicle Monitoring System. Live digital twin with animated simulation, telemetry gauges, obstacle collision avoidance, and ESP32 integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
